@@ -1,2 +1,2 @@
-# jhu-data-science
+# datasciencecoursera
 Parent repository for Coursera "Data Science Specialization" projects
