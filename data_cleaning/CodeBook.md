@@ -326,8 +326,7 @@ The following set of data transformations has been performed:
 			<td>60</td>
 			<td>freqBodyGyro SD Z</td>
 			<td>Average value of body acceleration standard deviations in frequency dimension in Z axe (taken from gyroscope)</td>
-		</tr>
-		
+		</tr>		
 		<tr>
 			<td>61</td>
 			<td>freqBodyAccMag Mean</td>
@@ -337,8 +336,7 @@ The following set of data transformations has been performed:
 			<td>62</td>
 			<td>freqBodyAccMag SD</td>
 			<td>Average value of body acceleration standard deviations in frequency dimension applied to Fast Fourier Transform(from the accelerometer)</td>
-		</tr>
-		
+		</tr>		
 		<tr>
 			<td>63</td>
 			<td>freqBodyAccJerkMag Mean</td>
