@@ -7,7 +7,7 @@
 ## run_analysis.R
 This is the main script that performs the cleaning and tidying of the dataset.
 It performs the following set of steps:
-1. Downloads the exercise data into a working directory [from] (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+1. Downloads the exercise data into a working directory [from](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 2. Unpacks the downloaded data into the working directory
 3. Merges the training and the test sets to create one data set
 4. Extracts only the measurements on the mean and standard deviation for each measurement
