@@ -1,8 +1,8 @@
 # Getting and Cleaning Data Course Project
 ## Repo content
-README.md
-run_analysis.R - R script that performs data transformation to get and clean data
-CodeBook.md - codebook describing variables, the data and transformations
+* README.md
+* run_analysis.R - R script that performs data transformation to get and clean data
+* CodeBook.md - codebook describing variables, the data and transformations
 
 ## run_analysis.R
 This is the main script that performs the cleaning and tidying of the dataset.
